@@ -8,7 +8,7 @@
 
 import UIKit
 
-class LambdaUITableView: UITableView,
+class LambdaTableView: UITableView,
                        UITableViewDelegate,
                        UITableViewDataSource,
                        UIScrollViewDelegate {
